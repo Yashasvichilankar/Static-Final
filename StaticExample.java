@@ -17,6 +17,7 @@ public class StaticExample {
 		
 		//Making college name static as every student is from same clg;
 		//Static is used for memory management;
+		
 		StaticExample.clg="PBCOE";
 		StaticExample s=new StaticExample("GEETA",20);
 		StaticExample s1=new StaticExample("RAM",21);
