@@ -10,6 +10,7 @@ public class StaticExample {
 		this.name = name;
 		this.age = age;
 	}
+	
 	public String toString() {
 		return "StaticExample [name=" + name + ", age=" + age + ", clg=" + clg + "]";
 	}
